@@ -1,4 +1,4 @@
-# Flowershow default template
+# 🌷 Flowershow default template
 
 Flowershow default app template. Uses Next.js with Tailwind and MDX.
 
