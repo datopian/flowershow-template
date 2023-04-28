@@ -1,0 +1,10 @@
+{
+  "outputDirectory": "out",
+  "installCommand": "npm install",
+  "buildCommand": "npm run export",
+  "framework": "nextjs",
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "status": 404, "dest": "/404" }
+  ]
+}
