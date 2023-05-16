@@ -14,10 +14,10 @@
   },
   "dependencies": {
     "@flowershow/core": "^0.4.13",
-    "@flowershow/markdowndb": "0.1.0",
+    "@flowershow/markdowndb": "0.1.5",
     "@flowershow/remark-callouts": "^1.0.0",
     "@flowershow/remark-embed": "^1.0.0",
-    "@flowershow/remark-wiki-link": "^1.1.1",
+    "@flowershow/remark-wiki-link": "^1.2.0",
     "@heroicons/react": "^1.0.6",
     "@silvenon/remark-smartypants": "^2.0.0",
     "@tailwindcss/typography": "^0.5.9",
