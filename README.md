@@ -1,6 +1,13 @@
-# 🌷 Flowershow default template
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-Flowershow default app template. Uses Next.js with Tailwind and MDX.
+⛔️ This project has been moved to https://github.com/datopian/flowershow
+Please consider using it instead.
+
+---
+
+# 🌷 Flowershow template
+
+Flowershow app template. Uses Next.js with Tailwind and MDX.
 
 To learn more how to create and customize your Flowershow website check our docs at https://flowershow.app/docs
 
